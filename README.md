@@ -6,3 +6,11 @@ Este proyecto es una aplicación interactiva construida con Streamlit que permit
 - Visualizar un histograma de la variable odometer.
 - Visualizar un diagrama de dispersión para ver la relación entre dos variables.
 - Interacción mediante casillas de verificación.
+
+## Dashboard 
+Dashboard en Render:
+https://sprint-7-yyjo.onrender.com
+
+## Repositorio 
+El código completo esta disponible aquí: 
+https://github.com/PaopaoMCG/sprint_7.git
